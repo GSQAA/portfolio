@@ -14,10 +14,10 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Soumyajit Behera</h3>
+          <h3>由【你的名字】设计与开发</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} SB</h3>
+          <h3>版权所有 © {year} 【你的名字】</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
